@@ -12,4 +12,3 @@ tqdm
 gunicorn
 huggingface-hub
 sentence-transformers
-ChatPromptTemplate
